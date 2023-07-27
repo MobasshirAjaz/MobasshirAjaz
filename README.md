@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MobasshirAjaz
-- 👀 I love coding
-- 🌱 I’m currently learning C and C++
-- 📖 I am student of KIIT UNIVERSITY,Odisha India
-- 
+- 👀 Felt in love with coding the day i learnt about coding.
+- 📖 Student at KIIT UNIVERSITY,Odisha India.
+- 🌱Currently focusing on DSA.
 
 
